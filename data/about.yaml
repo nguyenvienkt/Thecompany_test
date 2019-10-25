@@ -1,0 +1,17 @@
+{
+  Introduce: {
+    AboutTitle: "The Company FET",
+    AboutShortDescription: "This is The Company boostrap theme. We provide this theme for your refrence then can do whatever you want to do and then the next day you will see what will make your life better.",
+    AboutDescription: "This is not a test. This is not an example. This is the thing about our life will be concluded. What can we do"
+  },
+
+  OurValues: {
+    OurValuesTitle: "Our Values",
+    MissionTitle: "MISSION",
+    MissionDescription: "Our mission is provide a way for everyone can do this following a very special and unique way. For example, when someone want to to something, we will get in touch in very sooon",
+    VisionTitle: "VISION",
+    VisionDescription: "This is a description about our Vision to become a world wide company provide our products to many contries in the world and bring the best products which are looking carefully by our people everyday",  
+  
+  }
+
+}
